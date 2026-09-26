@@ -1,0 +1,6 @@
+{
+  "name": "Shri Kanth Finance Service",
+  "description": "Shri Kanth Finance Service is a loan service provider and loan assistance partner in Gwalior, Madhya Pradesh, helping customers with loan applications, documentation and lender processes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
